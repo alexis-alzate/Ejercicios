@@ -1,6 +1,6 @@
 //problema: imprimir todos los elementos de un array
 
-function impirmirElementos(array){
+function imprimirElementos(array){
     for (let i=0; i<array.length; i ++){
 
         console.log(array[i])
